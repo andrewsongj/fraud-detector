@@ -1,6 +1,6 @@
 # fraud-detector
 
-Abstract:
+## Abstract:
 To enhance threat detection, this project investigates
 the application of transfer learning in network se-
 curity. Two models were developed as part of the
